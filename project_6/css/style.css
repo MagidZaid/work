@@ -1,0 +1,264 @@
+
+html, body{
+
+    height: 100%;
+}
+
+
+
+/*NAVBAR*/
+
+nav {
+    position: fixed;
+    width: 100%;
+    height: 50px;
+    background-color: black;
+    opacity: 0.8.5;
+    z-index: 99;
+    text-align: center;
+}
+
+nav a{
+
+    text-decoration: none;
+    text-transform: uppercase;
+    color: white;
+    margin-left: 30px;
+    line-height: 60px;
+
+
+}
+
+nav  a:hover{
+background-color: black;
+color: red;
+}
+
+
+/*SECTION*/
+
+.section{
+
+    height: 100%;
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+
+}
+
+
+/*SECTION  SUBSECTION  ONE*/
+
+.sectOne {
+    background-image: url(../images/blog2.jpg);
+    background: cover;
+
+
+}
+
+.subsection1{
+
+    text-align: center;
+    height: 40%;
+    background-color: white;
+
+
+}
+
+.subsection1 .eat{
+ margin-top: 100px;
+color: #BC0808;
+margin-bottom: 40px;
+font-size: 40px;
+
+}
+
+.subsection1 .grh{
+font-size: 25px;
+color: gray;
+}
+
+.subsection1 .btn{
+margin-top: 40px;
+ background-color: #BC0808;
+color: white;
+font-size: 20px;
+width: 40%;
+height: 40%;
+
+}
+
+.subsection1 h6, p{
+margin-top: 40px;
+
+}
+
+
+/*SECTION  SUBSECTION  TWO*/
+
+
+.subsection2{
+
+    text-align: center;
+    height: 80%;
+    background-color: white;
+
+}
+
+.subsection2 .vist{
+color: #BC0808;
+font-size: 30px;
+}
+
+
+.subsection2 img{
+margin-top: 80px;
+
+}
+
+.subsection2 .pic{
+ color: #BC0808;
+}
+
+
+/*SECTION  SUBSECTION  THREE*/
+
+.sectTwo {
+    background-image: url(../images/secti2.jpg);
+
+}
+
+.sectThree {
+    background-image: url(../images/mag3.jpg);
+
+}
+
+.subsection3{
+
+    text-align: center;
+    height: 60%;
+    background-color: white;
+
+}
+
+.subsection3 .cala{
+color: #BC0808;
+
+
+}
+
+.subsection3 i{
+font-size: 50px;
+margin-top: 50px;
+color: gray;
+}
+
+.subsection3 .tim{
+ color: #BC0808;
+margin-bottom: 20px;
+}
+
+.subsection3 .btn{
+ margin-top: 40px;
+ background-color: #BC0808;
+color: white;
+font-size: 20px;
+width: 50%;
+height: 50%;
+
+}
+
+
+
+/*SECTION  SUBSECTION  FOUR*/
+
+
+.sectFour {
+    background-image: url(../images/seti4.jpg);
+
+}
+
+.subsection4{
+
+    text-align: center;
+    height: 80%;
+    background-color: white;
+
+}
+
+
+.subsection4 .poto{
+
+color: #BC0808;
+
+}
+
+.subsection4 .po{
+color: #BC0808;
+
+}
+
+.subsection4 img{
+    margin-top: 60px;
+    margin-bottom: 40px;
+}
+
+
+/*SECTION  SUBSECTION  FIVE*/
+
+.sectFive {
+    background-image: url(../images/mag4.jpeg);
+
+}
+
+.subsection5{
+
+    text-align: center;
+    height: 50%;
+    background-color: white;
+
+}
+
+.subsection5 i{
+font-size: 50px;
+margin-top: 50px;
+color: gray;
+}
+
+.subsection5 .fan{
+  color: #BC0808;
+}
+
+.subsection5 .btn{
+ margin-top: 40px;
+ background-color: #BC0808;
+color: white;
+font-size: 20px;
+width: 50%;
+height: 50%;
+
+}
+
+
+/*SECTION  SUBSECTION  SIX*/
+
+.sectSix {
+    background-image: url(../images/sect7.jpg);
+
+}
+
+
+.subsection6{
+
+
+    height: 50%;
+    background-color: #222222;
+    color: white;
+
+}
+
+.subsection6 iframe{
+    margin-top: 60px;
+}

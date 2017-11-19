@@ -1,0 +1,241 @@
+.container{
+margin: auto;    
+}
+
+/* HEADER */
+
+.header{
+color: white;
+}
+
+ .header{
+background-color: #2C3E50;
+}
+
+
+
+/* NAVBAR */
+#navbar{
+padding: 20px;
+margin-top: -20px;
+    
+}
+
+.navbar-brand{
+    font-size: 40px;
+    color: white;
+}
+
+
+
+
+#navbar li{
+display: inline;
+padding-right: 20px;
+list-style: none; 
+font-size: 20px;
+   
+
+    
+}
+
+#navbar li a:hover{
+color: black;
+    
+}
+
+#navbar li a{
+    color: white;
+    text-decoration: none;
+}
+
+#navbar{
+float: right;
+   
+}
+
+#navbar .active {
+    background-color: #6981BA;
+    border-radius: 38px;
+    width: -83px;
+    padding: 10px;
+    
+}
+/* SHOWCASE */
+
+.showcase{
+   height: 500px;
+    width: 100%;
+    padding: 30px 0 30px;
+    background-color:  #2C3E50;  
+    background-position: center;
+    color: #fff;   
+}
+
+.showcase img{
+   width: 140%;
+   
+    
+}
+
+.showcase h1{
+    padding: 10px;
+    font-size: 50px;
+}
+
+.showcase h1, p{
+    padding-left: 40px;
+}
+
+.showcase p{
+    font-size: 16px;
+    
+}
+
+.showcase .btn {
+    border-radius: 0;
+    font-size: 20px;
+    margin-top: 10px;
+    border-radius: 0;
+}
+
+@media(max-width:768px){
+    
+    
+    .showcase {
+        padding: 30px;
+        height: 750px;
+        
+    }
+    
+    showcase.header img{
+        width: 90%;
+        height: 300px;
+        margin: 20px 0 0 20px;
+    }
+    
+    .showcase .btn{
+      font-size: 10px;
+     margin-left: 20px;
+    }
+    
+    .showcase h1{
+        font-size: 20px;
+    }
+    
+    .showcase p{
+        font-size: 10px;
+    }
+}
+
+/* BOXES */
+
+.boxes {
+    margin: 0;
+    
+        
+}
+
+.well i{
+    font-size: 20px;
+   
+    color: #a1a5a9;
+    opacity: 0.7;
+}
+
+
+
+/* SERVICE */
+
+
+
+.service{
+
+    text-align: center;
+    margin-top: 80px;
+    padding: 20px 0 20px;
+}
+
+.service i{
+height: 80px;
+    width: 80px;
+    font-size: 90px;
+    color:  #2C3E50;
+    
+}
+
+
+.service p{
+    margin-top: 10px;
+} 
+
+/*INFO*/
+
+.info{
+margin-top: 80px;
+padding: 10px;    
+   
+}
+
+.info i{
+
+font-size: 25px;
+color: #9CFF33;      
+}
+
+.info .mag{
+    color: black;
+}
+
+.info i, .mag{
+    padding: 10px;
+}
+
+/* COMPANY */
+
+.company{
+    margin-top: 80px;
+    
+}
+
+.company i{
+    font-size: 25px;
+    color: orange;
+}
+
+.company .maz i{
+    color: #338DFF;
+}
+
+.company .maz {
+    color: #338DFF;
+}
+
+.company .mag{
+color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,211 @@
+body{
+    font: 15px/1.5, Arial Helvetica, sans-serif;
+    padding: 0;
+    margin: 0;
+    background-color: white;
+
+}
+.container{
+
+    overflow: hidden;
+
+}
+
+
+header{
+padding-top: 10px;
+min-height: 70px;
+background: white;
+
+}
+
+header a{
+
+text-decoration: none;
+text-transform: uppercase;
+font-size: 16px;
+margin-bottom: 30px;
+
+}
+
+header ul li a i{
+    padding: 10px;
+
+}
+
+header li{
+
+    float: left;
+    display: inline;
+    padding: 0 20px 0 20px;
+
+
+}
+
+header #branding{
+
+    float: left;
+
+}
+
+header #branding h1{
+    margin: 0;
+    font-size: 30px;
+    font-family: cursive;
+    margin-left: 20px;
+
+}
+
+header #branding p{
+
+    margin: 0;
+    font-size: 15px;
+      margin-left: 20px;
+}
+
+header ul li a{
+    color: black;
+}
+
+header  a{
+  text-decoration: none;
+
+
+}
+
+
+ul {
+    margin: 0;
+    padding: 0;
+    padding: 0 40px; 0 20px;
+
+}
+
+
+header nav{
+    float: right;
+    margin-top: 10px;
+}
+
+
+header a:hover{
+    color: orange;
+}
+
+/* SHOWCASE */
+
+.showcase{
+  height: 420px;
+  width: 100%;
+  padding: 30px 0 30px;
+  background-image: url(../images/show1.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+#ver h2{
+    text-align: center;
+    margin-top: 20px;
+
+}
+
+p#mag{
+
+    text-align: center;
+    margin: 0;
+}
+
+#ver{
+
+    margin-top: 20px;
+
+}
+
+
+
+ #ver img{
+    width: 89%;
+    padding: 10px;
+
+
+}
+
+#ver h3{
+
+    font-size: 25px;
+    margin-top: 40px;
+    font-family: cursive;
+
+}
+
+#boxes .box p{
+
+
+    padding: 10px;
+
+
+}
+
+p#maz{
+
+
+    padding: 60px;
+    margin-bottom: 0;
+    background: #e6e6e6;
+    text-align: center;
+
+
+}
+
+
+#bars{
+
+    margin-top: 20px;
+}
+
+
+
+#bars {
+
+    text-align: center;
+    background: #b9b4b4;
+    margin-bottom: 0;
+
+
+}
+
+
+#bars  img{
+
+    padding: 8.5px;
+
+
+
+}
+
+
+
+
+}
+
+footer #icons{
+
+    float: left;
+    font-size: 20px;
+
+}
+
+#footer{
+
+    padding: 10px;
+    margin-top: 0;
+    background: gray;
+    font-size: 20px;
+
+}
+
+#footer p{
+  text-align: center;
+}
